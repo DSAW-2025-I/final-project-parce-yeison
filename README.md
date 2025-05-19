@@ -2,7 +2,7 @@
 # Desarrollo de Aplicaciones Web
 ## Juan David Murillo
 ### Universidad de La Sabana
-#### 2024 - I
+#### 2025 - I
 
 # Julian Romero & Juan Lopez
 ## Front: https://dining-through.vercel.app/
