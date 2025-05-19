@@ -3,3 +3,10 @@
 ## Juan David Murillo
 ### Universidad de La Sabana
 #### 2024 - I
+
+# Julian Romero & Juan Lopez
+## Front: https://dining-through.vercel.app/
+## Backend: https://diningthroughbackend.onrender.com/
+## repositorio de front: https://github.com/Juliban27/DiningThrough
+## repositorio de back: https://github.com/Juliban27/DiningThroughBackend
+
